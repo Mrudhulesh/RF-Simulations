@@ -67,4 +67,4 @@ Navigate to the specific task directory within the cloned repository:
 Contributions to improve or enhance the simulations are highly encouraged. Please fork the repository, commit your enhancements, and submit a pull request for review.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
