@@ -39,7 +39,7 @@ This series comprises detailed RF design and analysis tasks performed using the 
 - **Objective**: Combine gain stages and transmission lines to study complex RF systems.
 - **Key Learning**: Overall system performance including gain and noise figure over cascaded components.
 <p float="left">
-  <img src="RF-Simulations/ADS RF Design and Analysis Series/task5a schematic.png" width="400" />
+  <img src="mrudhulesh/RF-Simulations/ADS%20RF%20Design%20and%20Analysis%20Series/task5a schematic.png" width="400" />
   <img src="RF-Simulations/ADS RF Design and Analysis Series/task5a.png" width="400" />
 </p>
 
