@@ -15,7 +15,7 @@ This series comprises detailed RF design and analysis tasks performed using the 
 ### Task 2: S-Parameter Simulation of Gain Stages
 - **Objective**: Explore the transmission and reflection characteristics of RF amplifiers.
 - **Key Learning**: Analysis of S-parameters to gauge amplifier performance and network behavior.
-- ![Task 2 Output](ADS RF Design and Analysis Series/task2_graph.png)
+- ![Task 2 Output](RF-Simulations/ADS RF Design and Analysis Series/task2_graph.png)
 
 ### Task 3: Cascaded Gain and Noise Figure Computation
 - **Objective**: Evaluate the combined effect of cascading multiple RF stages on gain and noise.
