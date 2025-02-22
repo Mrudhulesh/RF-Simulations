@@ -8,42 +8,42 @@ This series comprises detailed RF design and analysis tasks performed using the 
 - **Objective**: Understand the basic DC behavior and voltage division in a resistive circuit.
 - **Key Learning**: Voltage distribution across resistors and the impact of different resistances.
 <p float="left">
-  <img src="path/to/task1.png" width="400" />
-  <img src="path/to/task1 schematic.png" width="400" /> 
+  <img src="ADS RF Design and Analysis Series/task1.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task1 schematic.png" width="400" /> 
 </p>
 
 ### Task 2: S-Parameter Simulation of Gain Stages
 - **Objective**: Explore the transmission and reflection characteristics of RF amplifiers.
 - **Key Learning**: Analysis of S-parameters to gauge amplifier performance and network behavior.
-- ![Task 2 Output](path/to/task2_graph.png)
+- ![Task 2 Output](ADS RF Design and Analysis Series/task2_graph.png)
 
 ### Task 3: Cascaded Gain and Noise Figure Computation
 - **Objective**: Evaluate the combined effect of cascading multiple RF stages on gain and noise.
 - **Key Learning**: Computation and interpretation of cascaded gain and noise figures.
 <p float="left">
-  <img src="path/to/task3 schematic.png" width="400" />
-  <img src="path/to/task3 graph.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task3 schematic.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task3 graph.png" width="400" />
 </p>
 
 ### Task 4: Transmission Line Simulation
 - **Objective**: Analyze how transmission lines affect RF signals over distance and different materials.
 - **Key Learning**: Impedance matching, signal integrity, and loss considerations.
 <p float="left">
-  <img src="path/to/task4 schematic.png" width="400" />
-  <img src="path/to/task4.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task4 schematic.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task4.png" width="400" />
 </p>
 
 ### Task 5: Cascaded Gain Stage and Transmission Line Analysis
 - **Objective**: Combine gain stages and transmission lines to study complex RF systems.
 - **Key Learning**: Overall system performance including gain and noise figure over cascaded components.
 <p float="left">
-  <img src="path/to/task5a schematic.png" width="400" />
-  <img src="path/to/task5a.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task5a schematic.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task5a.png" width="400" />
 </p>
 
 <p float="left">
-  <img src="path/to/task5b schematic.png" width="400" />
-  <img src="path/to/task5b.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task5b schematic.png" width="400" />
+  <img src="ADS RF Design and Analysis Series/task5b.png" width="400" />
 </p>
 ## Installation and Setup
 To run these simulations, ensure you have access to ADS with a valid student or educational license. Follow the steps below to get started:
